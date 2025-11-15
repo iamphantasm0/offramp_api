@@ -1,6 +1,6 @@
 ---
 
-# 🥖 Bread Africa Offramp API (FastAPI Wrapper)
+# Offramp API (FastAPI Wrapper)
 
 A fully-featured **FastAPI backend** that wraps [Bread Africa’s Universal Offramp API](https://bread.africa). This project provides clean HTTP endpoints for quoting, transferring, and tracking crypto-to-fiat offramps using Bread's infrastructure.
 
